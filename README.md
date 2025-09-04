@@ -4,7 +4,7 @@
 
 -FPT University/ Artificial Intelligence major
 
--Python|SQL|R|HTML
+-Python | SQL | R | HTML
  
 <!---
 linanguyen05/linanguyen05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
