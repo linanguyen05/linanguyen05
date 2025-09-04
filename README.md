@@ -1,6 +1,9 @@
 -Full name: Nguyen Lam Anh
+
 -Nickname: Lina
+
 -FPT University/ Artificial Intelligence major
+
 -Python|SQL|R|HTML
  
 <!---
