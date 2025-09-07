@@ -4,27 +4,14 @@
 
 <h1 align="center">Hi there, I'm <strong>Nguyen Lam Anh</strong> </h1>
 <p align="center">
-  <!-- TODO: Your one‑line value statement -->
   <em>ML • DL • Data Science • Backend • Cloud — building practical AI applications with a passion for learning</em>
 </p>
 
-<!--
-<p align="center">
-  <!-- Quick badges 
-  <img src="https://komarev.com/ghpvc/?username=linanguyen05&label=Profile%20views&style=flat" alt="Profile views"/>
-  <a href="https://github.com/linanguyen05?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/linanguyen05?label=Follow&style=flat">
-  </a>
-  <a href="https://github.com/linanguyen05?tab=repositories&sort=stargazers">
-    <img alt="Total Stars" src="https://img.shields.io/github/stars/linanguyen05?affiliations=OWNER%2CCOLLABORATOR&style=flat">
-  </a>
-</p>
--->
 
 <p align="center">
   <!-- Contact -->
    <a href="https://github.com/linanguyen05">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat" alt="github">  <!--mốt chừng nào github wow thì xóa tag này, gỡ cmt quick bagges-->
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat" alt="github"> 
   </a>  
   <a href="mailto:nguyenla110505@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
@@ -40,9 +27,6 @@
 ---
 
 ## Tech Stack
-
-<!-- Keep to 1–2 lines. Add/remove as needed. Use devicon for clean logos. -->
-
 <p>
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36"/>
   <img alt="R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="36"/>
