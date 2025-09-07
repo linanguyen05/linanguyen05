@@ -10,9 +10,6 @@
 
 <p align="center">
   <!-- Contact -->
-   <a href="https://github.com/linanguyen05">
-    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=flat" alt="github"> 
-  </a>  
   <a href="mailto:nguyenla110505@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="email">
   </a>
