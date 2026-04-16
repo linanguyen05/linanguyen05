@@ -20,8 +20,6 @@
 
 ---
 
-### 📌 About Me
-
 - 🎓 Senior AI major at **FPT University** (expected 2027)
 - 🔍 Passionate about **Deep Learning**, **Multimodal Retrieval**, **RAG systems**, and **serverless AI deployment** on AWS
 - 🧠 Currently leading research on **MuVi Search** – a late-fusion framework for Vietnamese multimodal video retrieval (SigLIP, FAISS, QLoRA)
