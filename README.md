@@ -60,7 +60,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**MuVi Search**](https://github.com/linanguyen05/muvi-search) *(private / ongoing)* | Modular late-fusion framework for Vietnamese multimodal video retrieval. OCR lead – unified encoding with SigLIP, FAISS indexing, QLoRA fine-tuning. | PyTorch, SigLIP, FAISS, VietOCR, Qwen2.5 |
-| [**SorcererXStreme-frontend**](https://github.com/linanguyen05/SorcererXStreme-frontend) | RAG‑based spiritual consultation platform – full‑stack with AWS Bedrock, Pinecone, and glass‑morphism UI. | Next.js, TypeScript, AWS (Lambda, API Gateway, Cognito), Pinecone |
+| [**SorcererXStreme**](https://github.com/linanguyen05/SorcererXStreme-frontend) | RAG‑based spiritual consultation platform – full‑stack with AWS Bedrock, Pinecone, and glass‑morphism UI. | Next.js, TypeScript, AWS (Lambda, API Gateway, Cognito), Pinecone |
 | [**Plant Disease Detection**](https://github.com/linanguyen05/plant_disease_detection) | Fine‑tuned DINOv2 vs lightweight models (CAS‑ViT, SimCLR) on plant leaf images. Grad‑CAM visualization for interpretability. | PyTorch, HuggingFace, DINOv2, Grad‑CAM |
 
 ---
